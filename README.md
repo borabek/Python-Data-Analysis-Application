@@ -1,8 +1,8 @@
 Identifying Information:
-Name: [Your Name]
-Student ID (P-Number): [Your P-Number]
+Name: Bora Byrakci
+Student ID : P444218
 Course: Introduction to Programming (IY499)
-GitHub Repository: [GitHub Link] Declaration of Own Work:
+GitHub Repository: https://github.com/borabek/IY4101-OOP-Java-Project Declaration of Own Work:
 I hereby declare that this assignment submission is my own work and has not been plagiarized. All code and content have been written by me, and any sources used (if any) have been properly cited. This work complies with the university’s academic integrity policies. Project Description:
 This project is a Python program for Grouped Data Analysis, which allows users to input a collection of numerical data and analyze its distribution. The program groups the continuous data into classes of equal width (bins) as specified by the user, and then computes a set of descriptive statistics. After the user enters data (or loads existing data from a file), they are prompted to choose a class width for grouping. The program outputs a frequency distribution table that includes each class interval, the frequency of data points in that interval, and the midpoint of the interval. It also calculates key statistics such as the mean, median, mode, and identifies the modal class (the interval with the highest frequency), as well as variance and standard deviation of the dataset. Additionally, the program generates a histogram to visually represent the frequency distribution of the data. All results are displayed in the console for immediate feedback and saved to CSV files (data.csv for raw data, grouped_data.csv for the grouped frequency table, and statistics.csv for the summary statistics) for record-keeping or further analysis. The user interacts with the program through a simple text-based menu system, making it easy to enter new data, load existing data, view results, and exit the application. Required Libraries:
 pandas – for handling data structures (DataFrames) and reading/writing CSV files.
