@@ -75,6 +75,8 @@ Installation & Execution Instructions:
 (The statistics module is part of Python’s standard library.)
 
 **To run the program:**
+terminal
+python dataCollector.py
 ![image](https://github.com/user-attachments/assets/335275d0-02f2-4bd7-ba77-71fdac0cc9ae)
 
 
