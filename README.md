@@ -69,16 +69,14 @@ Installation & Execution Instructions:
 **Prerequisites:** Python 3.x
 
 **Install libraries:**
-```bash
-pip install pandas numpy matplotlib
-```
+![image](https://github.com/user-attachments/assets/7f774b31-088e-40a8-b84c-6d31dbbcb4c8)
+
 
 (The statistics module is part of Python’s standard library.)
 
 **To run the program:**
-```bash
-python dataCollector.py
-```
+![image](https://github.com/user-attachments/assets/335275d0-02f2-4bd7-ba77-71fdac0cc9ae)
+
 
 **Using the Program:**
 - Choose “1. Enter Data” to input a new dataset manually.
