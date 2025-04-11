@@ -69,6 +69,8 @@ Installation & Execution Instructions:
 **Prerequisites:** Python 3.x
 
 **Install libraries:**
+terminal
+pip install pandas numpy mathplotlib
 ![image](https://github.com/user-attachments/assets/7f774b31-088e-40a8-b84c-6d31dbbcb4c8)
 
 
